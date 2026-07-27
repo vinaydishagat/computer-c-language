@@ -16,6 +16,10 @@ int main()
     cout<<"Your rank is in good list: MET/VESIT/COE/NMITD"<<"\n";
   }
 
+
   cout<<"caution: this data is on cap cutoff do not trust blindly"<<"\n";
+
+  cout<<"Thanks for visiting our website"<<"\n";
+
     return 0;
 }
