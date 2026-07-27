@@ -16,5 +16,6 @@ int main()
     cout<<"Your rank is in good list: MET/VESIT/COE/NMITD"<<"\n";
   }
 
+  cout<<"Thanks for visiting our website"<<"\n";
     return 0;
 }
